@@ -13,7 +13,7 @@
 
   <p align="center">
     <br>
-    Hello, I am <b>Pikod</b>. My real name is <b>Yahya</b>. I live in <b>Denizli, Turkey</b>
+    Hello, I am <b>Pikod</b>. My real name is <b>Deniz</b>. I live in <b>Kayseri, Turkey</b>
     <br>I was born in 2005 and I have been improving myself at programming since I was 12 years old.
     <br>These are some of my social media accounts that you can get contact with me:
   </p>
