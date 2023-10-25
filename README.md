@@ -92,23 +92,5 @@
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
 
-<h1 align="center">Open Source</h1>
-<br>
-<p align="center">
-  <a align="center" href="https://github.com/ByPikod/go-crypto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=go-crypto&theme=radical">
-  </a>
-</p>
 
-<!-- Footer -->
-<img align="right" src="assets/emoji.gif" width="40px">
-<img align="left" src="assets/emoji.gif" width="40px">
 
-<h1 align="center">Thanks for visiting!</h1>
-<p align="center">
-  Thank You for Exploring My GitHub Profile! I appreciate your visit and interest in my work.
-  <br>
-  <a href="/CREDITS.md">Click to see Credits</a>
-  <br><br>
-  <img src="https://media.tenor.com/orTKpX4YeBAAAAAC/hello-jack.gif">
-</p>
