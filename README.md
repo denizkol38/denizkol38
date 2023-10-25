@@ -48,45 +48,21 @@
 
 <h6 align="center">Programming Languages</h6>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,js,nodejs,ts,php,python,go">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,nodejs,">
 </p>
 
 <h6 align="center">Front End</h6>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,sass,jquery,bootstrap,tailwind,webpack,electron">
+  <img src="https://skillicons.dev/icons?i=html,css,react,sass,bootstrap,webpack,">
 </p>
 
-<h6 align="center">Back End</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,spring">
-  <!-- also: swagger -->
-</p>
 
-<h6 align="center">Web</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,cloudflare,nginx,express,wordpress">
-</p>
 
-<h6 align="center">DevOps</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,kafka,jenkins,grafana,githubactions,docker,prometheus,git,github">
-  <!-- also: trello -->
-</p>
 
-<h6 align="center">Other Tools</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,androidstudio,md,raspberrypi,arduino,regex">
-</p>
 
-<h6 align="center">Design Tools</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender">
-</p>
 
-<h6 align="center">Databases</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres">
-</p>
+
+
 
 <!-- Footer -->
 <img align="right" src="assets/emoji.gif" width="40px">
