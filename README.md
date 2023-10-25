@@ -88,9 +88,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres">
 </p>
 
-<!-- Projects -->
-<img align="right" src="assets/emoji.gif" width="40px">
-<img align="left" src="assets/emoji.gif" width="40px">
+
 
 
 
