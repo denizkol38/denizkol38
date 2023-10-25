@@ -47,11 +47,11 @@
 <h1 align="center">Statistics</h1>
 <p align="center">
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical">
+  <img src="https://streak-stats.demolab.com/?user=denizkol38&theme=radical"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=denizkol38&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizkol38&theme=radical&layout=donut" height="200"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denizkol38&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=denizkol38&theme=radical">
   <p align="center">
     <b>Since 14.10.2023</b>
   </p>
