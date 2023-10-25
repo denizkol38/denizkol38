@@ -33,12 +33,7 @@
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
 
-<h1 align="center">Trophies</h1>
-<p align="center">
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=25&margin-h=25&theme=radical&column=3&row=3" width="60%">
-  <br><br>
-</p>
+
 
 
 <!-- Abilities -->
