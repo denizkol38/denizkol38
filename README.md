@@ -15,7 +15,7 @@
   <p align="center">
     <br>
     Hello, I am <b>Pikod</b>. My real name is <b>Yahya</b>. I live in <b>Denizli, Turkey</b>
-    <br>I was born in 2005 and I have been improving myself at programming since I was 12 years old.
+    <br>I am a passionate software developer, I develop my projects with the love of continuous learning. I am solution-oriented with my analytical perspective and teamwork skills. I show my passion for technology in open source projects in my free time. I look forward to working with a teamwork-based, success-oriented company.
     <br>These are some of my social media accounts that you can get contact with me:
   </p>
 
